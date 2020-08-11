@@ -59,6 +59,7 @@ logo = """ -----------------------------•◈•
 \033[1;96mAuthorJAAN MALIK 
 \033[1;96mInstagram \033[1;93m: \033[1;JAAN MALik
 \033[1;96mFacebook  \033[1;93m: \033[1; JAANPMG420
+
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Thejaan/zero
 \033[1;91m======================================="""
 
